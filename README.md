@@ -11,7 +11,7 @@
 ##### 2. Clone a repo
 
 ```shell
-    git clone 
+    git clone https://github.com/Fakhar7/Editor.git
 ```
 
 #### 2. Add files to html file 
