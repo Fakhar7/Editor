@@ -33,7 +33,7 @@ touch index.html
     <link rel="stylesheet" href="editor/prism.css">
 ```
 
-##### 4. Paste in your html file body section
+##### 5. Paste in your html file body section
 
 ```html
 <body>
